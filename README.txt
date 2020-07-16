@@ -1,3 +1,5 @@
+This is a sorting visualiser meant for seeing how different sorting algorithms work and what makes some more efficient than others.
+
 Usage:
 
 It is required that you have python3 installed on your device.
